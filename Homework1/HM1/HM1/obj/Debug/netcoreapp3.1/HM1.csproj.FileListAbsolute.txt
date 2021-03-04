@@ -1,0 +1,13 @@
+D:\vs_test\作业\HM1\HM1\bin\Debug\netcoreapp3.1\HM1.exe
+D:\vs_test\作业\HM1\HM1\bin\Debug\netcoreapp3.1\HM1.deps.json
+D:\vs_test\作业\HM1\HM1\bin\Debug\netcoreapp3.1\HM1.runtimeconfig.json
+D:\vs_test\作业\HM1\HM1\bin\Debug\netcoreapp3.1\HM1.runtimeconfig.dev.json
+D:\vs_test\作业\HM1\HM1\bin\Debug\netcoreapp3.1\HM1.dll
+D:\vs_test\作业\HM1\HM1\bin\Debug\netcoreapp3.1\HM1.pdb
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.csprojAssemblyReference.cache
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.AssemblyInfoInputs.cache
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.AssemblyInfo.cs
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.csproj.CoreCompileInputs.cache
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.dll
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.pdb
+D:\vs_test\作业\HM1\HM1\obj\Debug\netcoreapp3.1\HM1.genruntimeconfig.cache
