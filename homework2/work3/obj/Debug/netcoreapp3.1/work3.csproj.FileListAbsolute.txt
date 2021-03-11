@@ -1,0 +1,13 @@
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.csprojAssemblyReference.cache
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.AssemblyInfoInputs.cache
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.AssemblyInfo.cs
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.csproj.CoreCompileInputs.cache
+D:\vs_test\作业\homework2\work3\bin\Debug\netcoreapp3.1\work3.exe
+D:\vs_test\作业\homework2\work3\bin\Debug\netcoreapp3.1\work3.deps.json
+D:\vs_test\作业\homework2\work3\bin\Debug\netcoreapp3.1\work3.runtimeconfig.json
+D:\vs_test\作业\homework2\work3\bin\Debug\netcoreapp3.1\work3.runtimeconfig.dev.json
+D:\vs_test\作业\homework2\work3\bin\Debug\netcoreapp3.1\work3.dll
+D:\vs_test\作业\homework2\work3\bin\Debug\netcoreapp3.1\work3.pdb
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.dll
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.pdb
+D:\vs_test\作业\homework2\work3\obj\Debug\netcoreapp3.1\work3.genruntimeconfig.cache
