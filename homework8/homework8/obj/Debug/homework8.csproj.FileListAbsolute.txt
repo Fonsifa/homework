@@ -1,0 +1,11 @@
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.csprojAssemblyReference.cache
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.Form1.resources
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.Properties.Resources.resources
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.csproj.GenerateResource.cache
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.csproj.CoreCompileInputs.cache
+D:\vs_test\作业\homework8\homework8\bin\Debug\homework8.exe.config
+D:\vs_test\作业\homework8\homework8\bin\Debug\homework8.exe
+D:\vs_test\作业\homework8\homework8\bin\Debug\homework8.pdb
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.exe
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.pdb
+D:\vs_test\作业\homework8\homework8\obj\Debug\homework8.修改订单.resources
