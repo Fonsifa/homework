@@ -1,0 +1,70 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>博客园新闻手机版</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道">
+    <link rel="Stylesheet" type="text/css" href="//m.cnblogs.com/css/m.css">
+</head>
+<body>
+    博客园IT新闻:
+    <div class="top_nav">
+        [<a href="//m.cnblogs.com/">首页</a>]
+        [<a href="//m.cnblogs.com/blog/">博客</a>]
+        [<a href="//ing.cnblogs.com">闪存</a>]
+        [<a href="#" onclick="javascript:location.reload()">刷新</a>]
+    </div>
+    
+        <div class="list_item">
+            <a href="/m/n/692986">问题待解又忙于破圈，小红书上市前的终极三问</a>(1小时前,<a href="/mc?id=692986">0</a>/33,6KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692985">嘀嗒出行IPO之路注定忐忑</a>(2小时前,<a href="/mc?id=692985">0</a>/19,5KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692984">B站面试官“飘了” 可游戏行业不应只有面包</a>(2小时前,<a href="/mc?id=692984">0</a>/60,5KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692983">虎牙股权曝光：腾讯持股47.4% 有69.7%投票权</a>(3小时前,<a href="/mc?id=692983">0</a>/45,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692982">百度健康：收录5亿科普内容，日均服务用户超1亿</a>(3小时前,<a href="/mc?id=692982">0</a>/45,小于1K)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692981">申通衰落：年利润降97%市值跌至130亿 阿里持股25%</a>(3小时前,<a href="/mc?id=692981">0</a>/79,3KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692980">特斯拉维权女车主：曾经每天都躲在卫生间哭，生活只剩下维权了</a>(4小时前,<a href="/mc?id=692980">0</a>/117,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692979">滴滴：4月30日将成今年上半年“最难打车日”</a>(4小时前,<a href="/mc?id=692979">0</a>/85,小于1K)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692978">一图了解中国空间站：在轨10年 最多容纳6人</a>(4小时前,<a href="/mc?id=692978">0</a>/124,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692977">多项功能严重故障！特斯拉在韩召回561辆Model S</a>(4小时前,<a href="/mc?id=692977">0</a>/87,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692976">网传寻求控制北汽极狐 华为回应：没有此事</a>(4小时前,<a href="/mc?id=692976">0</a>/82,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692975">众泰汽车2020年净亏损108亿元：净资产为负股价却疯涨</a>(5小时前,<a href="/mc?id=692975">0</a>/66,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692974">世界首个智能帆船外套诞生：柔性墨水屏完美融入衣服</a>(5小时前,<a href="/mc?id=692974">0</a>/113,小于1K)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692973">专家：货拉拉与网约车平台性质不一样 但也应主动承担社会责任</a>(5小时前,<a href="/mc?id=692973">0</a>/37,1KB)
+        </div>
+        <div class="list_item">
+            <a href="/m/n/692972">天文学家首次在系外行星大气中检测到羟基分子特征</a>(5小时前,<a href="/mc?id=692972">0</a>/34,1KB)
+        </div>
+    <a href="/m?page=2">下一页</a><br>
+    » <a href="//m.cnblogs.com">手机版首页</a><br>
+    » <a href="//ing.cnblogs.com/mobile/home/">最新闪存</a><br>
+    » <a href="//m.cnblogs.com/blog/">最新博客</a>
+</body>
+</html>

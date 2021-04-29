@@ -1,0 +1,881 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>腾讯_IT新闻_博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=3xP9uuDECgAlC6BJj9zLyJMsa0nKoD5dAt4paP25qKM" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=nefLI3mgFt-9OMgJr0ayftmT0REvBpYq2wb0OMDO1pY" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=NWzOaUGAd-DmDHBEBJ-MPL3eLK8Vpc26nS6ubbAaS3o"></script>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap">
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com">
+                        <img src="/Images/logo.gif" alt="logo" />
+                    </a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id="e1"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;">
+                        <a href="//www.cnblogs.com">首页</a>
+                    </li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="https://brands.cnblogs.com/">专区</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide">
+        <h3><a href="http://news.cnblogs.com" class="big blue">新闻首页</a> / 关于“腾讯”的主题</h3>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_692942">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(692942,'agree')">
+                        <span id="digg_num_692942" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_692942" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/692942/" target="_blank">全球首发165Hz！腾讯红魔6 Pro顶配版预售：5299元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        4 月 29 日消息，今日，红魔游戏手机官方宣布，腾讯红魔游戏手机 6 Pro 冰刃银 16GB+256GB 版本，将于今日上午 10:00 开启定金预售，售价 5299 元，购机可享 6 期免息活动。 作为新一代游戏旗舰，红魔 6 Pro 配备一块 6.8 英寸 AMOLED 超竞屏，全球首发支持
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/692942#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">166 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-29 11:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691804">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691804,'agree')">
+                        <span id="digg_num_691804" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691804" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691804/" target="_blank">欠费停机仍可进行充值！腾讯充值方法新专利曝光</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        你是否经历过出门在外手机突然欠费停机的尴尬时刻？而恰巧周围又没有公共 Wi-Fi 可用。 在不久后，或许这一情况将不再出现。 今日，通过企查查网站了解到，腾讯科技（深圳）有限公司于今日公开了一项“充值方法及装置”的发明专利，申请日期为 2019 年 10 月 25 日，公开号为 CN11271236
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691804#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">339 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-27 13:20</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691781">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691781,'agree')">
+                        <span id="digg_num_691781" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691781" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691781/" target="_blank">腾讯高层明确表示不造车 从软件方面给予支持</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        步入到今年以后，国内汽车圈最大的变化，不是哪家车企又推出了新车，而是各大互联网公司纷纷宣布要亲自下场造车。先有百度官宣进军汽车整车制造行业，随后小米雷军也表示，压上个人的所有声誉，为造车拼尽全力。 而今，360 也官宣，通过投资哪吒汽车，将切入整车制造行业。此前，虽然华为表示不直接造车，而将会通过智
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691781#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">118 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-27 09:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691764">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691764,'agree')">
+                        <span id="digg_num_691764" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691764" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691764/" target="_blank">腾讯被抄袭获赔3000万：《DNF》被完整复刻为手游</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        《地下城与勇士》是一款横版 2D 动作网游，是一款腾讯代理韩国游戏公司的游戏，也被成为《DNF》，陪伴了无数 80 后、90 后的学生时代。 腾讯官方早在 2019 年就曾公布了《地下城与勇士》手游的消息，但是在原定的上线时间之前突然宣布延期，至今依然未曾正式上线，这也令许多老玩家十分遗憾。 而此前
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691764#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">1015 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-27 00:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691760">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691760,'agree')">
+                        <span id="digg_num_691760" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691760" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691760/" target="_blank">腾讯千帆“连接”升级，未来三年将支持10万SaaS客户</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        腾讯科技讯，4 月 26 日，腾讯在北京举行“2021 腾讯千帆战略发布会”，解读其 SaaS 生态战略，面向行业和客户发布“企业应用连接器”。 未来，腾讯千帆将在“一云多端三大项目”基础上，与合作伙伴一起，进一步为客户提供服务。通过 SaaS 臻选帮助客户筛选 SaaS 产品，提供咨询服务；通过场
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691760#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">124 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-26 20:46</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691730">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691730,'agree')">
+                        <span id="digg_num_691730" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691730" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691730/" target="_blank">腾讯千帆推出企业应用连接器，联合企业微信打造云端一体服务</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        4 月 26 日，腾讯在北京举行“2021 腾讯千帆战略发布会”，解读其 SaaS 生态战略，面向行业和客户发布“企业应用连接器”。 未来，腾讯千帆将通过 SaaS 臻选帮助客户筛选 SaaS 产品，提供咨询服务；通过场景化方案和创新实验室为客户打造 SaaS 解决方案。面向 SaaS 合作伙伴，继
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691730#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">129 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-26 14:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691655">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691655,'agree')">
+                        <span id="digg_num_691655" class="diggnum">3</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691655" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691655/" target="_blank">因网络服务合同纠纷 腾讯被南山区法院强制执行25元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        天眼查 App 显示，4 月 23 日，深圳市腾讯计算机系统有限公司新增一条被执行人信息，案号(2021) 粤 0305 执 6990 号，执行标的 25 元，执行法院为深圳市南山区人民法院，关联案件为吴某与深圳市腾讯计算机系统有限公司相关网络服务合同纠纷。 案件起因是 2018 年 7 月 17 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691655#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">418 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-25 10:38</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691533">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691533,'agree')">
+                        <span id="digg_num_691533" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691533" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691533/" target="_blank">腾讯完成发行41.5亿美元票据，10年期利率2.880%</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        财联社 4 月 23 日讯，腾讯控股在港交所公告，根据 300 亿美元全球中期票据计划，于 4 月 22 日发行 5.0 亿美元 2031 年到期优先票据，利率为 2.880%。发行 9.0 亿美元 2041 年到期优先票据，利率为 3.680%。发行 17.5 亿美元 2051 年到期优先票据，利
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691533#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">98 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-23 08:34</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691513">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691513,'agree')">
+                        <span id="digg_num_691513" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691513" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691513/" target="_blank">腾讯发布全球纪录片《零水日》</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        4 月 22 日，在庆祝第 52 个世界地球日之际，由腾讯集团、腾讯影业出品、腾讯视频独家首播的纪录片《零水日》(DAY ZERO)在全球 4 大洲 10 余个国家上线播出。该纪录片讲述了南美洲巴西、非洲南非、北美洲美国以及亚洲中国四个国家的水资源挑战。本周一，腾讯刚刚宣布启动战略升级，将“可持续社
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691513#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">190 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-22 23:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691434">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691434,'agree')">
+                        <span id="digg_num_691434" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691434" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691434/" target="_blank">封杀26个微信公众号被起诉垄断 法院判决腾讯赢了</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        据国内媒体报道，4 月 20 日，广东省高级人民法院首次发布互联网领域反不正当竞争和反垄断十大案例，其中有一起涉及腾讯封杀公众号的案子。 原告深圳微源码软件开发有限公司起诉称，腾讯科技（深圳）有限公司运营的微信公众号平台未经原告许可，擅自封禁原告在微信公众号平台上开办的 26 个微信公众号。 原告认
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691434#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">537 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E4%BF%A1/" class="gray">微信</a> <a href="/n/tag/%E6%8A%96%E9%9F%B3/" class="gray">抖音</a> </span>
+                        发布于 <span class="gray">2021-04-21 15:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691397">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691397,'agree')">
+                        <span id="digg_num_691397" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691397" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691397/" target="_blank">深度解析组织架构变革中的腾讯帝国</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        文/黄依婷 编辑/子夜 今年 4 月，腾讯迎来近两年来最大的组织调整。 根据腾讯平台与内容事业群（PCG）发文，将整合腾讯视频、微视、应用宝业务，组建“在线视频 BU”。 与此同时，“在线视频 BU”、QQ 社交业务、音乐、资讯等各部门，人事均有调动。 此次调整后，腾讯将长短视频、音乐、社交、资讯等
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691397#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">151 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-21 09:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691378">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691378,'agree')">
+                        <span id="digg_num_691378" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691378" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691378/" target="_blank">独家深访：揭秘腾讯第四次战略升级</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        文 张博迁 出品 故事硬核 &#215; 36 氪 4 月 19 日，腾讯提出将“推动可持续社会价值创新”作为新的核心战略。 这也许是腾讯历史上第一次，不是因为商业，而是因为社会价值而进行的战略升级。 为此，我们采访了推动这次战略升级的马化腾、刘炽平等腾讯总办成员，也包括普通员工。既倾听他们的层层剖析，也记录
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691378#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">176 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-20 20:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691353">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691353,'agree')">
+                        <span id="digg_num_691353" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691353" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691353/" target="_blank">腾讯汤道生：腾讯将助力培养10000名人工智能教师</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        4 月 20 日消息，第二届 MEET 教育科技创新峰会上，腾讯公司高级执行副总裁、云与智慧产业事业群总裁汤道生表示，经过十年发展，教育信息化建设正在从“工具驱动”，转变为“数据驱动”：从单一的教学工具，迈向以数据应用提升整体教学能力、助力个性化发展的新阶段。 汤道生强调，腾讯教育在其中始终坚持做好
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691353#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">125 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-20 14:50</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691330">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691330,'agree')">
+                        <span id="digg_num_691330" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691330" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691330/" target="_blank">腾讯发布新蓝图，首期投入500亿元助力中国发展新格局</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        ▲腾讯战略新蓝图 4 月 19 日上午，腾讯董事会主席兼首席执行官马化腾携公司代表腾讯集团发布了《推动可持续社会价值创新》的致员工信，宣布了“扎根消费互联网，拥抱产业互联网，推动可持续社会价值创新”的大战略。 这次战略升级，将腾讯公益平台与企业社会责任部进行升级，在企业发展事业群（英文简称 CDG）
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691330#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">111 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-20 11:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691308">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691308,'agree')">
+                        <span id="digg_num_691308" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691308" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691308/" target="_blank">腾讯发布自研第四代数智融合计算平台“腾讯大数据-天工”， 隐私计算性能领冠全球</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        图说：腾讯发布自研第四代数智融合计算平台“腾讯大数据-天工” 腾讯科技讯， 4 月 18 日，在 “腾讯大数据高峰论坛”上，腾讯正式发布自研第四代数智融合计算平台“腾讯大数据-天工”，该平台以最新的“数据协同、技术互通、平台大脑”技术理念为基础，在确保数据安全这一重要前提下，真正实现万亿级数据分析无
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691308#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">169 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-19 22:04</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691283">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691283,'agree')">
+                        <span id="digg_num_691283" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691283" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691283/" target="_blank">首期500亿，成立新部门，腾讯准备做什么？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        今天，一个新的组织——可持续社会价值事业部在腾讯诞生了。关于这次架构升级，Pony，Martin 及腾讯全体总办，向全球腾讯人发出了一封信。信中，他们回顾了在公司 23 年的成长历程中，向善如何融入腾讯的基因。 “2002 年创业初期，我们把旧电脑从仓库里找出来翻新，送给山区里的孩子，帮助那些需要帮
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691283#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">665 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-19 14:14</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691281">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691281,'agree')">
+                        <span id="digg_num_691281" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691281" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691281/" target="_blank">腾讯发布新蓝图，“可持续社会价值创新”成为核心战略</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        图片说明：腾讯战略新蓝图 中国网 4 月 19 日讯 （记者张渊通讯员展彦时）今天上午，腾讯董事会主席兼首席执行官马化腾携公司代表腾讯集团发布了《推动可持续社会价值创新》的致员工信，宣布了“扎根消费互联网，拥抱产业互联网，推动可持续社会价值创新”的大战略。 这次战略升级，将腾讯公益平台与企业社会责任
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691281#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">153 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-19 13:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691232">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691232,'agree')">
+                        <span id="digg_num_691232" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691232" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691232/" target="_blank">TME和腾讯PCG同时宣布调整 背后透露了什么？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        文/郑智乾 来源：字头社（ID：zitou23） 4 月 15 日，腾讯音乐（TME）发布通告进行高层调整，原 CEO 彭迦信升任 TME 执行董事长，梁柱则回归履任 CEO 和董事。 由于原 QQ 负责人梁柱岗位的变动，腾讯 PCG 的组织架构调整也公布了。 企业进行人事和组织架构调整，不外乎是内
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691232#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">95 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-18 17:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691153">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691153,'agree')">
+                        <span id="digg_num_691153" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691153" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691153/" target="_blank">为了击败张一鸣，任宇昕要在腾讯再造一个字节跳动？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        4 月 15 日，腾讯平台与内容事业群(PCG)宣布新一轮组织架构和人事调整。这是 PCG 自 2018 年 9 月成立以来规模最大的一次调整。调整的背后，代表了短视频崛起，不断侵占用户时间的环境中，腾讯不想放弃内容业务。 此次变动，最大的调整也是在视频领域，PCG 组建了“在线视频 BU”，整合了
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691153#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">432 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BB%BB%E5%AE%87%E6%98%95/" class="gray">任宇昕</a> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-16 14:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691130">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691130,'agree')">
+                        <span id="digg_num_691130" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691130" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691130/" target="_blank">腾讯根据全球中期票据计划 发行41.5亿美元票据定价</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        腾讯科技讯 4 月 16 日消息，腾讯近日公布，公司根据 300 亿美元全球中期票据计划发行本金合共 41.5 亿美元无担保高级票据的定价。该等 41.5 亿美元票据的定价包括： 1、于 10 年后的 2031 年 4 月 22 日到期，票息为每年固定利率 2.88% 的 5 亿美元票据； 2、于 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691130#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">80 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2021-04-16 09:50</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+    <div id="pages">
+        <div class="pager"><a href="/n/topic_7.htm" class="p_1 current">1</a><a href="/n/topic_7_2.htm" class="p_2 middle">2</a><a href="/n/topic_7_3.htm" class="p_3 middle">3</a><a href="/n/topic_7_4.htm" class="p_4 middle">4</a><a href="/n/topic_7_5.htm" class="p_5 middle">5</a><a href="/n/topic_7_6.htm" class="p_6 middle">6</a><a href="/n/topic_7_7.htm" class="p_7 middle">7</a><a href="/n/topic_7_8.htm" class="p_8 middle">8</a><a href="/n/topic_7_9.htm" class="p_9 middle">9</a><span class="ellipsis">···</span><a href="/n/topic_7_100.htm" class="p_100 last">100</a><a href="/n/topic_7_2.htm">Next &gt;</a></div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        LoadSideCommentsByTopicId("NewsIndexCommentsId", 20, 7);
+    });
+</script>
+        <div id="sideright">
+            
+    <div style="margin-top:10px">
+        <h3 class="title_green" style="margin-bottom:10px;">最新评论</h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+        </ul>
+        <div class="clear">
+        </div>
+    </div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备09004260号-1</a>
+                <span>&copy;2004-2021</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                <span id="powered_by">Powered by .NET on Kubernetes</span>
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2021</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>

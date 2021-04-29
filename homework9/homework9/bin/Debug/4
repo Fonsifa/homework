@@ -1,0 +1,882 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>虎牙_标签_IT新闻_博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=3xP9uuDECgAlC6BJj9zLyJMsa0nKoD5dAt4paP25qKM" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=nefLI3mgFt-9OMgJr0ayftmT0REvBpYq2wb0OMDO1pY" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=NWzOaUGAd-DmDHBEBJ-MPL3eLK8Vpc26nS6ubbAaS3o"></script>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap">
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com">
+                        <img src="/Images/logo.gif" alt="logo" />
+                    </a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id="e1"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;">
+                        <a href="//www.cnblogs.com">首页</a>
+                    </li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="https://brands.cnblogs.com/">专区</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide">
+        <h3><a href="/" class="big blue">新闻首页</a> / 标签为“虎牙”的新闻</h3>
+        <input type="hidden" name="tagId" id="tagId" value="虎牙"/>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_692983">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(692983,'agree')">
+                        <span id="digg_num_692983" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_692983" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/692983/" target="_blank">虎牙股权曝光：腾讯持股47.4% 有69.7%投票权</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        文/雷建平 来源：雷帝触网（ID：touchweb） 虎牙日前向 SEC 递交 20-F 文件，文件显示，截至 2021 年 3 月 31 日，腾讯持股为 47.4%，有 69.7% 的投票权；欢聚集团持股为 16.2%，有 23.9% 的投票权。 截至 2021 年 3 月 31 日，虎牙股权结构
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/692983#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">45 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2021-04-29 18:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_691299">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(691299,'agree')">
+                        <span id="digg_num_691299" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_691299" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/691299/" target="_blank">虎牙员工遭暴力辞退、被HR抬出公司：法院已受理</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        去年 11 月 6 日，一位自称“虎牙被抬当事人”的网友曝料称，遭受直系领导的冷暴力，导致个人抑郁，被公司暴力辞退，而在拒绝签署辞退书后，HR 带着 5 个人将其抬出了公司，期间导致其头部受到多次撞击，手机也被摔坏，心理和身体双重受挫。 据该网友称，领导卢某辱骂其“狗屎”、“不适合这份工作”等，承诺
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/691299#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">482 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2021-04-19 20:52</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_687473">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(687473,'agree')">
+                        <span id="digg_num_687473" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_687473" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/687473/" target="_blank">虎牙CEO董荣杰：正在探索直播、视频、社区融合的业务形态</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        虎牙公司 CEO 董荣杰与数字人互动 2 月 1 日消息，虎牙公司 CEO 董荣杰近日在虎牙线上年会上表示，直播的创新方向，是要去找寻弹幕之外更适合直播的交互方式，答案很可能是虎牙一直在坚持的虚拟主播、数字人。 谈及对行业的洞察与虎牙 2021 年的规划，董荣杰认为，直播的核心价值，就是满足了人们即
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/687473#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">131 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2021-02-01 15:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_683267">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(683267,'agree')">
+                        <span id="digg_num_683267" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_683267" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/683267/" target="_blank">虎牙回应合并案被审查：早前已主动向监管部门申报 积极配合审查程序</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        12 月 14 日，虎牙公司回应：广州虎牙科技有限公司早前已经主动将其与武汉斗鱼鱼乐网络科技有限公司合并案，依法向市场监管总局反垄断局进行经营者集中申报，并会积极配合主管部门的审查程序。 12 月 14 日，市场监管总局反垄断局主要负责人表示，今年上半年，已审查并无条件批准涉及协议控制结构的经营者集
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/683267#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">186 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-12-14 19:38</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_680687">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(680687,'agree')">
+                        <span id="digg_num_680687" class="diggnum">31</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_680687" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/680687/" target="_blank">虎牙被抬员工当事人再问虎牙公司：解除合同通知何时给到我？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        今天是 12 月 4 日，国家宪法日，司法部、全国普法办旨在大力弘扬宪法精神，做尊法学法守法用法的合格公民。 距我 11 月 2 日事发已有 32 天，我也讲一讲我通过公安派出所的坎坷维权路。 原标题：四到警局，虎牙被抬员工报警记！ 来源：@虎牙被抬员工当事人微博 01/亮出虎牙 记被抬，虎牙向我亮
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/680687#comment" class="gray" target="_blank">评论(6)</a>
+                        </span><span class="view">1004 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-12-04 16:31</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677652">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677652,'agree')">
+                        <span id="digg_num_677652" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677652" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677652/" target="_blank">转让虎牙股份、出售YY直播 欢聚完成大变身</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        文/婷婷 来源：资本侦探（ID：deep_insights） 欢聚真的卖掉了 YY 直播。11 月 17 日，欢聚集团发布公告，确认了这一消息。 公告中称，欢聚已于 11 月 16 日与百度就全资收购欢聚国内视频娱乐直播业务（即“YY 直播”）完成最终约束性协议的签署，总交易金额约为 36 亿美元，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677652#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">203 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> <a href="/n/tag/YY/" class="gray">YY</a> </span>
+                        发布于 <span class="gray">2020-11-18 17:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677373">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677373,'agree')">
+                        <span id="digg_num_677373" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677373" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677373/" target="_blank">虎牙被抬员工再回应：无任何过激行为 虎牙理由莫须有</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        11 月 2 日，虎牙员工自曝被 HR 抬出公司，遭暴力裁员，引发网络热议。 11 月 7 日，虎牙直播发表声明称，公司发现该名当事员工存在简历造假、在职期间进行兼职活动等违纪行为，严重违反了虎牙公司价值观，遂决定同该员工解除劳动合同。在辞退当天，当事员工拒绝签字，言辞过激，严重影响了公司正常经营秩
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677373#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">252 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-11-15 08:02</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677186">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677186,'agree')">
+                        <span id="digg_num_677186" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677186" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677186/" target="_blank">解读虎牙Q3财报：盈利能力大幅领跑，行业破局点已至</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        文/杨杨 来源：读懂财经（ID：dudongcj） 从“千播大战”到“后竞争时代”，游戏直播的行业格局发生数次更迭。如今看来，这场行业马拉松终于告一段落。 11 月 11 日，虎牙(NYSE:HUYA)和斗鱼相继发布财报。从财报看，两者的竞争态势已经趋于明朗——三季度，虎牙的收入规模为 28.2 亿
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677186#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">143 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-11-12 13:43</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677140">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677140,'agree')">
+                        <span id="digg_num_677140" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677140" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677140/" target="_blank">虎牙第三季度净利润3730万美元 同比增长105.3%</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        腾讯科技讯，11 月 11 日消息，虎牙（纽交所证券代码：HUYA）周三盘前发布了该公司截至 2020 年 9 月 30 日的第三季度未经审计财报。财报显示，虎牙第三季度总净营收为人民币 28.148 亿元（约合 4.146 亿美元），同比增长 24.3%；归属虎牙的净利润为人民币 2.530 亿元
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677140#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">105 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-11-11 20:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677052">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677052,'agree')">
+                        <span id="digg_num_677052" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677052" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677052/" target="_blank">虎牙被抬员工回应简历造假：简历是按领导要求修改</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        11 月 2 日，虎牙员工自曝被 HR 从 13 楼抬出公司，遭暴力裁员，引发网络热议。 11 月 7 日，虎牙直播发表声明称，公司发现该名当事员工存在简历造假、在职期间进行兼职活动等违纪行为，严重违反了虎牙公司价值观，遂决定同该员工解除劳动合同。在辞退当天，当事员工拒绝签字，言辞过激，严重影响了公
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677052#comment" class="gray" target="_blank">评论(3)</a>
+                        </span><span class="view">794 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-11-10 19:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_676835">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(676835,'agree')">
+                        <span id="digg_num_676835" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_676835" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/676835/" target="_blank">被虎牙HR抬出公司员工发声：简历造假另有隐情</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        11 月 7 日消息，“虎牙员工自曝被 HR 抬出公司”的话题登上热搜，引发不少网友关注。 据报道，这名员工称其遭受直系领导的冷暴力导致抑郁，现被公司暴力辞退。 在拒绝签署辞退书后，HR 带着 5 个人将其抬出了公司，也无法带走个人物品，拖抬过程中头部受到多次撞击导致心理和身体双重受挫。 对于虎牙公
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/676835#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">300 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-11-08 09:37</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_676814">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(676814,'agree')">
+                        <span id="digg_num_676814" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_676814" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/676814/" target="_blank">曝虎牙员工被HR抬出公司：大呼救命 遭暴力辞退</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        近年来，暴力裁员的消息屡见报端，涉事公司不发一些互联网巨头企业。据国内媒体报道，一位自称“虎牙被抬当事人”的用户某社交平台发声，称其遭受直系领导的冷暴力导致抑郁，现被公司暴力辞退。 曝光的一段楼道视频显示，该员工被一群人抬走，大呼“救命”“你们看这是虎牙直播”。 该员工在文章中控诉，在拒绝签署辞退书
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/676814#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">175 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-11-07 20:20</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_675042">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(675042,'agree')">
+                        <span id="digg_num_675042" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_675042" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/675042/" target="_blank">“虎鱼”归一 天下主播皆为腾讯打工？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_697.htm"><img src="//images2017.cnblogs.com/news_topic/20171120140434461-666614531.png" class="topic_img" alt=""/></a>
+                        文/雨茜 来源：新文化商业（ID：Ent-Biz） 10 月 12 日晚间，虎牙与斗鱼官宣合并。标志着，在腾讯主导下，游戏直播领域“两雄争霸”时代宣告结束。 众所周知，腾讯集团主要收入来源于游戏，而斗鱼与虎牙目前在游戏直播领域的市场份额共占到 80% 左右，双方正式合并后，腾讯将直接控制这个总市值超
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/675042#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">296 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2020-10-15 17:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_674906">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(674906,'agree')">
+                        <span id="digg_num_674906" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_674906" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/674906/" target="_blank">陈少杰大幅减持、斗鱼将成虎牙子公司：游戏直播过往即序章</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        文/刘亚澜 来源：深响（ID：deep-echo） 从沸沸扬扬到靴子落地，虎牙斗鱼合体这件事行业里已经不再有人惊奇。腾讯在游戏直播赛道的双保险布局从一开始就没有悬念，而伴随着今日公告的释放，关于这场“事先张扬”的合并，一些真正值得关注的焦点有了答案。 公告显示，虎牙将通过以股换股合并收购斗鱼所有已发
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/674906#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">126 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-10-14 15:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_674903">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(674903,'agree')">
+                        <span id="digg_num_674903" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_674903" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/674903/" target="_blank">斗鱼虎牙合并为什么是一种必然？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_697.htm"><img src="//images2017.cnblogs.com/news_topic/20171120140434461-666614531.png" class="topic_img" alt=""/></a>
+                        文/陈彬 来源：刺猬公社（ID:ciweigongshe） 这一天终于来了。 10 月 12 日晚，斗鱼、虎牙同时发布公告，正式官宣合并。合并后，斗鱼将成为虎牙私有全资子公司，并从纳斯达克退市。斗鱼 CEO 陈少杰将加入虎牙董事会，与虎牙董荣杰一同成为新公司的联席 CEO。而原腾讯旗下直播平台企鹅电
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/674903#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">153 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-10-14 15:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_674882">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(674882,'agree')">
+                        <span id="digg_num_674882" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_674882" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/674882/" target="_blank">腾讯5年终收网，捕获市值100亿美元“虎鲨”</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_697.htm"><img src="//images2017.cnblogs.com/news_topic/20171120140434461-666614531.png" class="topic_img" alt=""/></a>
+                        文/杨业擘 来源：Tech 星球（ID：tech168） 10 月 12 日晚间，斗鱼公司所在地的武汉光谷和虎牙新办公室所在地广州保利大都汇，都十分平静，两家公司的员工仍在默默上班办公，突然一则新闻在两家公司的聊天群中炸开：虎牙与斗鱼联合宣布双方已签订“合并协议与计划”，腾讯占股 67.5% 成为合
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/674882#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">548 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-10-14 10:34</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_674795">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(674795,'agree')">
+                        <span id="digg_num_674795" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_674795" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/674795/" target="_blank">虎牙、斗鱼合并官宣！新公司设联席CEO由腾讯控股</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        被传合并一年多后，国内两大头部游戏直播平台虎牙和斗鱼终于走到了一起。 10 月 12 日晚间消息，虎牙、斗鱼公告称，腾讯将以总价 5 亿美元将“企鹅电竞”游戏直播业务转让给斗鱼，斗鱼与企鹅电竞合并后的整体再与虎牙合并。 合并完成后，斗鱼将成为虎牙私有全资子公司，斗鱼将退市。新公司设联席 CEO，为虎
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/674795#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">503 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2020-10-13 10:17</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_674681">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(674681,'agree')">
+                        <span id="digg_num_674681" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_674681" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/674681/" target="_blank">腾讯携手虎牙成立安全联合实验室 共建AI智能审核平台</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_7.htm"><img src="https://img2020.cnblogs.com/news_topic/20200706085628246-1266015956.gif" class="topic_img" alt=""/></a>
+                        10 月 10 日，虎牙公司与腾讯云、腾讯安全共同宣布成立安全联合实验室，双方将融合腾讯在云服务器底层算力、内容风险识别、反欺诈和威胁情报等方面的技术能力优势与虎牙公司在内容风控、安全攻防和直播业务场景的实战积累，围绕 AI 安全应用、黑产打击、安全攻防、数据标注、人工审核等多个领域展开技术交流与业
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/674681#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">88 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> <a href="/n/tag/%E8%85%BE%E8%AE%AF/" class="gray">腾讯</a> </span>
+                        发布于 <span class="gray">2020-10-11 13:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_673454">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(673454,'agree')">
+                        <span id="digg_num_673454" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_673454" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/673454/" target="_blank">斗鱼向虎牙道歉 曾传播虎牙是黑公关</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_697.htm"><img src="//images2017.cnblogs.com/news_topic/20171120140434461-666614531.png" class="topic_img" alt=""/></a>
+                        在腾讯的撮合下，中国最大的两家直播平台斗鱼、虎牙，正在化干戈为玉帛，商讨合并一事。 今天下午，斗鱼官微发布致歉声明： 我司于 2018 年 8 月在我司运营的官方微博账号与官方微信公众号中，转发了《直播界黑公关事件曝光:虎牙再陷泥潭被指攻击斗鱼)、刊载《向黑公关 SAYNO!》等失实文章，并向公众传
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/673454#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">112 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-09-22 21:14</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_672741">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(672741,'agree')">
+                        <span id="digg_num_672741" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_672741" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/672741/" target="_blank">合并进程中的斗鱼和虎牙，暗流涌动</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1105.htm"><img src="//images2017.cnblogs.com/news_topic/20180110153530316-1443395858.png" class="topic_img" alt=""/></a>
+                        文/赵二把刀 来源：读娱（ID：yiqiduyu） 在同一赛道血战到底的对手们，即使最终走到了一起，所谓的品牌和运营独立多数也都是权宜之计，最终都会被资本和平台消化，成为主要枝干的养分。 树欲静而风不止，虽然虎牙和斗鱼的合并在外界看来已经是“板上钉钉”，但实际上可能并不是那么的“风平浪静”——这场涉
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/672741#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">244 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%96%97%E9%B1%BC/" class="gray">斗鱼</a> <a href="/n/tag/%E8%99%8E%E7%89%99/" class="gray">虎牙</a> </span>
+                        发布于 <span class="gray">2020-09-13 10:26</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+    <div id="pages">
+        <div class="pager"><a href="/n/tag/%E8%99%8E%E7%89%99/?page=1" class="p_1 current">1</a><a href="/n/tag/%E8%99%8E%E7%89%99/?page=2" class="p_2 middle">2</a><a href="/n/tag/%E8%99%8E%E7%89%99/?page=3" class="p_3 middle">3</a><a href="/n/tag/%E8%99%8E%E7%89%99/?page=4" class="p_4 middle">4</a><a href="/n/tag/%E8%99%8E%E7%89%99/?page=5" class="p_5 middle">5</a><a href="/n/tag/%E8%99%8E%E7%89%99/?page=6" class="p_6 last">6</a><a href="/n/tag/%E8%99%8E%E7%89%99/?page=2">Next &gt;</a></div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        LoadSideCommentsByTag("NewsIndexCommentsId", 20, $("#tagId").val());
+    });
+</script>
+        <div id="sideright">
+            
+    <div style="margin-top:10px;">
+        <h3 class="title_green" style="margin-bottom:10px;">最新评论</h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+        </ul>
+        <div class="clear">
+        </div>
+    </div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备09004260号-1</a>
+                <span>&copy;2004-2021</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                <span id="powered_by">Powered by .NET on Kubernetes</span>
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2021</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>

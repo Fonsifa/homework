@@ -1,0 +1,10 @@
+D:\vs_test\作业\homework9\homework9\bin\Debug\homework9.exe.config
+D:\vs_test\作业\homework9\homework9\bin\Debug\homework9.exe
+D:\vs_test\作业\homework9\homework9\bin\Debug\homework9.pdb
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.csprojAssemblyReference.cache
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.Form1.resources
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.Properties.Resources.resources
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.csproj.GenerateResource.cache
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.csproj.CoreCompileInputs.cache
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.exe
+D:\vs_test\作业\homework9\homework9\obj\Debug\homework9.pdb

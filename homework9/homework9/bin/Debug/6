@@ -1,0 +1,881 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>AWS_IT新闻_博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=3xP9uuDECgAlC6BJj9zLyJMsa0nKoD5dAt4paP25qKM" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=nefLI3mgFt-9OMgJr0ayftmT0REvBpYq2wb0OMDO1pY" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=NWzOaUGAd-DmDHBEBJ-MPL3eLK8Vpc26nS6ubbAaS3o"></script>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap">
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com">
+                        <img src="/Images/logo.gif" alt="logo" />
+                    </a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id="e1"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;">
+                        <a href="//www.cnblogs.com">首页</a>
+                    </li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="https://brands.cnblogs.com/">专区</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide">
+        <h3><a href="http://news.cnblogs.com" class="big blue">新闻首页</a> / 关于“AWS”的主题</h3>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_692963">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(692963,'agree')">
+                        <span id="digg_num_692963" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_692963" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/692963/" target="_blank">法官力挺亚马逊 拒绝驳回干预AWS采购100亿美元国防合同的投诉</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        法官再次站在亚马逊的立场，拒绝驳回特朗普政府干预 AWS 采购 100 亿美元国防合同的投诉。今天这条新闻对于亚马逊来说可能是短暂的胜利，因为联邦索赔法院法官帕特里夏&#183;坎贝尔-史密斯（Patricia Campbell-Smith）的最近裁决支持了亚马逊长期以来的立场，即外界力量不公平地导致其损失了
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/692963#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">163 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/" class="gray">亚马逊</a> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2021-04-29 14:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_689245">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(689245,'agree')">
+                        <span id="digg_num_689245" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_689245" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/689245/" target="_blank">AWS中文Logo正式改为“亚马逊云科技”</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        一直以来，亚马逊公司旗下的云业务 Amazon Web Services 在国内都被简写为 AWS，现在亚马逊云业务正式推出了中文 logo“亚马逊云科技”。目前，亚马逊中国官网（amazonaws.cn）、官方微博等上的介绍都已经是“亚马逊云科技”。 官网 官方微博 此次中文 logo 的正式推出
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/689245#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">134 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2021-03-02 08:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_687639">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(687639,'agree')">
+                        <span id="digg_num_687639" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_687639" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/687639/" target="_blank">亚马逊云服务去年收入达454亿美元 同比增长30%</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        2 月 3 日消息，，亚马逊公司公布了截至 2020 年 12 月 31 日的第四季度财务业绩。2020 年第四季度，亚马逊净销售额达到 1256 亿美元，相比去年同期的 874 亿美元增长 44%。AWS 在 2020 全年净销售额 453.7 亿美元，相比 2019 年的 350.26 亿美元增
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/687639#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">58 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/" class="gray">亚马逊</a> </span>
+                        发布于 <span class="gray">2021-02-03 15:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_687527">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(687527,'agree')">
+                        <span id="digg_num_687527" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_687527" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/687527/" target="_blank">AWS宣布3款实例进军中国市场，基于自研服务器芯片Graviton2，强化在华云策略</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        1 月 28 日，亚马逊云服务（AWS）正式宣布，由 AWS Graviton2 处理器提供支持的 Amazon Elastic Compute Cloud （Amazon EC2）&#160;M6g、C6g&#160;和&#160;R6g&#160;实例已在由光环新网运营的 AWS 中国（北京）地区和由西云数据运营的 AWS 中国（宁夏
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/687527#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">98 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2021-02-02 11:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_685059">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(685059,'agree')">
+                        <span id="digg_num_685059" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_685059" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/685059/" target="_blank">社交网络Parler以将其服务踢出互联网为由起诉亚马逊</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        社交网络 Parler 的创建者已经起诉亚马逊，在上周美国国会大厦发生骚乱后，后者终止了一项网络托管协议。Parler 声称亚马逊网络服务切断了联系，以阻止 Parler 与更大的社交平台 Twitter 竞争，它要求法院阻止亚马逊关闭其账户。Parler 自称是 Facebook 和 Twitte
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/685059#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">99 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Parler/" class="gray">Parler</a> <a href="/n/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/" class="gray">亚马逊</a> </span>
+                        发布于 <span class="gray">2021-01-12 09:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_684949">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(684949,'agree')">
+                        <span id="digg_num_684949" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_684949" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/684949/" target="_blank">取代戴尔，AWS 稳坐全球存储市场头把交椅，Azure 位居第三位</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        作者：Frankie Berry 是 IT Brand Pulse，Inc.的分析师兼执行合伙人 2020 年第三季度 AWS 的存储即服务收入在 17.4 亿美元至 23.2 亿美元之间。 AWS 超越传统供应商，稳坐全球企业存储市场头把交椅 2018 年 IT Brand Pulse 注意到，没
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/684949#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">291 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2021-01-10 22:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_683010">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(683010,'agree')">
+                        <span id="digg_num_683010" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_683010" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/683010/" target="_blank">AWS和Azure中国业务危险了？特朗普或将下令：禁止美企在华开展云业务</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        趁着担任美国总统的最后一段时间，特朗普继续搞事情。 这一次，与云计算有关。 据外媒报道，近日，特朗普政府内部正在传阅一项关于云计算的行政命令提案，该命令提案瞄准了美国云计算企业在特定国家的业务——虽然没有明说，但美国媒体在报道中谈到了中国。 简单来说，该行政命令提案，意在让美国云服务企业远离部分海外
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/683010#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">199 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> <a href="/n/tag/Azure/" class="gray">Azure</a> </span>
+                        发布于 <span class="gray">2020-12-10 13:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_678577">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(678577,'agree')">
+                        <span id="digg_num_678577" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_678577" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/678577/" target="_blank">AWS CEO 180分钟演讲，透露AWS业务现状，并“疯狂”输出27款新发布</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        始于 2012 年的亚马逊 re:Invent 已经成为全球云计算领域的风向标，今年是有史以来首次在线举办，第一次免费向全球开放，全世界开发者与用户第一次可以“近距离”接触 AWS 的高管和技术大咖。 截至目前，注册的参会人数创造纪录，已超过 40 万人，并有望在本周五超过 50 万人。 12 月 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/678577#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">250 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-12-03 00:42</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_678575">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(678575,'agree')">
+                        <span id="digg_num_678575" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_678575" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/678575/" target="_blank">使用甲骨文云服务半年后，AWS宣布其仍是Zoom的首选云服务商</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        近日，亚马逊云平台（Amazon Web Services）AWS 发布声明，宣布延长与 Zoom Video Communications，Inc.的协议，扩大与 Zoom 的合作，继续成为了 Zoom 的首选云提供商。 声明称，Zoom 将继续利用 AWS 的全球基础架构和服务组合，包括计算，存
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/678575#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">176 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Zoom/" class="gray">Zoom</a> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-12-03 00:38</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_678393">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(678393,'agree')">
+                        <span id="digg_num_678393" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_678393" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/678393/" target="_blank">AWS雇佣Rust编译器团队负责人Felix Klock</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        亚马逊云服务 AWS&#160;雇佣了&#160;Rust 编译器团队负责人之一的 Felix Klock。AWS 开源团队还表达了对 Rust 语言的强烈兴趣。 亚马逊开发者称他们越来越多的用 Rust 构建关键基础设施如 Firecracker VMM，因为它的开箱即用功能减少了满足公司高安全标准所需要的时间和精力
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/678393#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">100 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Felix%20Klock/" class="gray">Felix Klock</a> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-11-30 20:12</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_678228">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(678228,'agree')">
+                        <span id="digg_num_678228" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_678228" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/678228/" target="_blank">​主流云厂商云服务器2020年终盘点：AWS、阿里云、腾讯云、金山云、华为云</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        2020 年接近尾声，又到了年底盘点的时刻。 今年的云计算市场格外热闹，科技抗疫让云计算从幕后走到前台，让人们近距离见证了信息技术的强大力量；“新基建”掀起的信息化热潮下，云计算成为绝对的支撑主力；企业数字化转型迫在眉睫，“上云”也一举成为今年最火的关键词之一。 提到“上云”，首先需要选定云服务商，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/678228#comment" class="gray" target="_blank">评论(3)</a>
+                        </span><span class="view">494 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-11-27 13:29</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_678164">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(678164,'agree')">
+                        <span id="digg_num_678164" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_678164" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/678164/" target="_blank">刚刚、AWS崩了：拖垮了互联网的半壁江山，恢复可能需要“数小时”！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        AWS 遭遇了持续数小时的故障。 AWS 周三遭遇了持续数小时的故障，结果影响了互联网的半壁江山。据该公司最近发布的最新消息显示，完全恢复可能还需要几个小时。 美国东部标准时间下午 3 点 15 分，亚马逊在其 AWS 服务运行状况仪表板上的声明中称：“我们继续努力解决影响 US-EAST-1 地区
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/678164#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">819 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-11-26 13:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677991">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677991,'agree')">
+                        <span id="digg_num_677991" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677991" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677991/" target="_blank">以“文化之变”促进“创新之变”，创造企业转型发展新传奇！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        2020 AWS 转型与创新峰会于 11 月 4 日在上海和线上成功举办！现场盛况空前，大咖云集，线上备受追捧。这个在中国落地仅仅三年，针对企业级客户的转型与创新大会，已经成为云计算行业的重要风向标，越来越多的重磅企业与合作伙伴参与其中。这也说明了，当下众多企业面临转型上云的迫切性以及 Amazon
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677991#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">61 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-11-24 12:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_677125">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(677125,'agree')">
+                        <span id="digg_num_677125" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_677125" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/677125/" target="_blank">AWS中国全新上线两项文件存储服务，集齐存储服务“全家桶”</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        2020 年 11 月 10 日， 亚马逊云服务（AWS）宣布，AWS 中国（宁夏）区域（由西云数据运营）和 AWS 中国（北京）区域（由光环新网运营）同时正式上线了两项全新的文件存储服务：Amazon FSx for Windows File Server 和 Amazon FSx for Lus
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/677125#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">172 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/" class="gray">亚马逊</a> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-11-11 16:58</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_676755">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(676755,'agree')">
+                        <span id="digg_num_676755" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_676755" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/676755/" target="_blank">BBC Online 迁移到 AWS</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        BBC Online&#160;最近迁移到了 AWS 云服务，从使用自己的数据中心改为使用亚马逊的数据中心。BBC 网站非常庞大，有 44 种语言，以前大部分网页都是用 PHP 写的，托管在伦敦附近的两个数据中心。云端服务相对于自行托管的一个优势是可以随时根据需要增添服务器，移除许多不必要的冗余。现在，BBC
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/676755#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">110 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-11-06 15:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_658661">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(658661,'agree')">
+                        <span id="digg_num_658661" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_658661" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/658661/" target="_blank">网易游戏选择AWS全球基础设施加速海外市场开拓</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        亚马逊旗下公司 Amazon Web Services, Inc. (AWS) 今天宣布，全球游戏收入排名前 10*的网易游戏选择了 AWS 加速全球市场开拓。作为中国数款知名 PC 及移动游戏的开发运营商，网易游戏依托 AWS 全球十多个区域的基础设施，在 AWS 服务基础上构建了游戏动态伸缩技术
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/658661#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">212 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F/" class="gray">网易游戏</a> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-03-30 11:05</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653979">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653979,'agree')">
+                        <span id="digg_num_653979" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653979" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653979/" target="_blank">亚马逊AWS拟用AI帮助NASA预测超级太阳风暴</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        原标题：Amazon Web Services enlists AI to help NASA get ahead of solar superstorms 网易科技讯，1 月 20 日消息，据外媒报道，美国宇航局（NASA）正与亚马逊云计算服务部门 AWS 和亚马逊机器学习解决方案实验室合作一个项
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/653979#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">265 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%A9%E6%96%87/" class="gray">天文</a> <a href="/n/tag/%E4%BA%91%E8%AE%A1%E7%AE%97/" class="gray">云计算</a> </span>
+                        发布于 <span class="gray">2020-01-20 17:29</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653706">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653706,'agree')">
+                        <span id="digg_num_653706" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653706" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653706/" target="_blank">亚马逊联手黑莓实现双赢：AWS进军汽车市场 黑莓巩固市场地位</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        腾讯科技讯，1 月 15 日消息，据外媒报道，照常理来看，亚马逊和黑莓不太可能实现合作。亚马逊是全球最大的电子商务和云计算服务平台公司，而黑莓则以开发企业软件和服务为主业。 为此，当黑莓最近宣布与亚马逊旗下云计算平台 AWS 合作推出新的互联汽车平台，并且将黑莓的 QNX 操作系统和 AWS 的物联
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/653706#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">153 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/" class="gray">亚马逊</a> <a href="/n/tag/%E9%BB%91%E8%8E%93/" class="gray">黑莓</a> </span>
+                        发布于 <span class="gray">2020-01-15 17:19</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653356">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653356,'agree')">
+                        <span id="digg_num_653356" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653356" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653356/" target="_blank">AWS Marketplace正式在中国上线</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        作者：果青 【TechWeb】1 月 9 日，AWS 今天宣布，AWS&#160;Marketplace&#160;在中国全面上线。AWS&#160;Marketplace&#160;China 是一个精挑细选的数字化产品目录，通过它用户能够轻松查找、测试、部署和管理他们在&#160;AWS&#160;中国（北京）区域和&#160;AWS&#160;中国（宁夏）区域上运行系统所
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/653356#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">193 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-01-09 16:06</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653236">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653236,'agree')">
+                        <span id="digg_num_653236" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653236" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653236/" target="_blank">亚马逊云计算部门将与威瑞森合作推出5G边缘云计算</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1438.htm"><img src="https://img2018.cnblogs.com/news_topic/20190602085947732-162853982.jpg" class="topic_img" alt=""/></a>
+                        作者：辣椒客 【TechWeb】1 月 7 日消息，据国外媒体报道，在全球云计算领域拥有较大市场份额的亚马逊，宣布将与电信运营商合作推出 5G 边缘云计算。 与威瑞森合作推出 5G 边缘云计算服务的消息，是亚马逊在官网宣布的。 从亚马逊在官网所公布的消息来看，5G 边缘云计算服务，最终将由威瑞森推出
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/653236#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">121 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AWS/" class="gray">AWS</a> </span>
+                        发布于 <span class="gray">2020-01-07 18:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+    <div id="pages">
+        <div class="pager"><a href="/n/topic_1438.htm" class="p_1 current">1</a><a href="/n/topic_1438_2.htm" class="p_2 middle">2</a><a href="/n/topic_1438_3.htm" class="p_3 last">3</a><a href="/n/topic_1438_2.htm">Next &gt;</a></div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        LoadSideCommentsByTopicId("NewsIndexCommentsId", 20, 1438);
+    });
+</script>
+        <div id="sideright">
+            
+    <div style="margin-top:10px">
+        <h3 class="title_green" style="margin-bottom:10px;">最新评论</h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+        </ul>
+        <div class="clear">
+        </div>
+    </div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备09004260号-1</a>
+                <span>&copy;2004-2021</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                <span id="powered_by">Powered by .NET on Kubernetes</span>
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2021</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>
